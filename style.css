@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    background-color: #69f0ae;
+}
+h3{
+    font-family: 'Macondo Swash Caps', cursive;
+}
+p{
+    font-family: 'Nova Flat', cursive;
+}
+b{
+    font-family: 'Comfortaa', cursive;
+}
+label{
+    font-family: 'Nova Flat', cursive;
+}
+button{
+    font-family: 'Rubik', sans-serif;
+}
